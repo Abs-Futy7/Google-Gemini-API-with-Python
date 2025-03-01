@@ -1,0 +1,6 @@
+Gemini : a family of multimodel large language models
+Multimodel : 
+    1. text to text generation
+    2. text to image generation
+    3. image to image generation
+    
